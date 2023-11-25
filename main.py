@@ -1,0 +1,10 @@
+michele = Person("Michele", ["Python", "Java", "C++"])
+print(michele.name)
+print(michele.languages)
+print(michele.language)
+print(michele.favorite_language)
+print(michele.favorite_language_index)
+print(michele.favorite_language_index_or_none)
+print(michele.favorite_language_index_or_default)
+print(michele.favorite_language_index_or_default("JavaScript"))
+print
